@@ -1,4 +1,5 @@
 {
+  "project" : "Edge Delivery Services",
   "plugins": [
     {
       "id": "asset-library",
