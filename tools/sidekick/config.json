@@ -5,7 +5,7 @@
       "id": "asset-library",
       "title": "AEM Assets",
       "environments": ["edit","dev"],
-      "url":"https://experience.adobe.com/?repoId=author-p87308-e741619.adobeaemcloud.com#/@unitedhealthgroup/assets/browse/content/dam/hpnv-insite-uhcnevada",
+      "url":"https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
       "passConfig": true,
       "passReferrer" : true,
       "includePaths" : ["**.docx**"],
